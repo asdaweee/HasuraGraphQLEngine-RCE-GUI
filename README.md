@@ -10,5 +10,7 @@
 3，代理模块
 ![image](https://github.com/asdaweee/HasuraGraphQLEngine-RCE-GUI/assets/139205627/f9303b63-f096-45c2-a6f5-1d63bcb52d11)
 可设置基于http协议的代理。
+hash
+![image](https://github.com/asdaweee/HasuraGraphQLEngine-RCE-GUI/assets/139205627/104421db-d8a4-473e-a497-80aba7bb116e)
 
 
